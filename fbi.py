@@ -79,8 +79,8 @@ def show_program():
     version    full version
     Date       16/05/2018 09:35:12
     Team       Blackhole Security
-    Email      xnver404@gmail.com
-    Telegram   @CiKu370
+    Email      Bedo752009123@gmail.com
+    Telegram   @jocker752009
 
 * if you find any errors or problems , please contact
   author
